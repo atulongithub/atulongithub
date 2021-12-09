@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Salesforce
 - 👯 I’m looking to collaborate on LinkedIn <!-- - 🤔 I’m looking for help with -->
 - 💬 Ask me about PHP, React Js, Vue Js, Wordpress or UI/UX stuff.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/theatulrai/" rel="nofollow">LinkedIn</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/company/cloudanalogy" rel="nofollow">LinkedIn</a>
 - 😄 Pronouns: He/his
 
 <a href="https://github.com/atulongithub">
